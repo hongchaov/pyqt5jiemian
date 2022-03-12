@@ -132,4 +132,5 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
     #销毁所有窗口
     cv2.destroyAllWindows()
+    #哈哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈哈
 
